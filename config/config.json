@@ -9,7 +9,7 @@
   "NFT_NAME": "Jeepney Rush",
   "SYMBOL": "JEEP",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 0,
+  "WEI_COST": 0.0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Oasis",
